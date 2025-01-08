@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Mobile number authentication system using firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project is done in React.js. 
 
-## Available Scripts
+## Step to setup project 
 
 In the project directory, you can run:
 
